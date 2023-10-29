@@ -17,6 +17,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/> </a> 
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dreamlinerm&show_icons=true&bg_color=00000000" alt="Dreamlinerm" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dreamlinerm&include_all_commits=true&layout=compact&bg_color=00000000" alt="Dreamlinerm" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Dreamlinerm&show_icons=true&bg_color=00000000" alt="Dreamlinerm" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dreamlinerm&include_all_commits=true&layout=compact&bg_color=00000000" alt="Dreamlinerm" />
 </div>
