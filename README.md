@@ -1,4 +1,4 @@
-### Hi, I'm Marvin a Computer Science Student
+### Hi, I'm Marvin a Master Computer Science Student
 - 🔭 I’m currently working on Netflix/Prime Auto-skip Browser Addon
 - 🌱 I’m currently studying for my Masters at the RWTH Aachen
 - 📫 How to reach me: marvinkrebber@yahoo.de
@@ -16,4 +16,7 @@
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/> </a> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dreamlinerm&show_icons=true&locale=en" alt="Dreamlinerm" /></p>
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dreamlinerm&show_icons=true&bg_color=00000000" alt="Dreamlinerm" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dreamlinerm&include_all_commits=true&layout=compact&bg_color=00000000" alt="Dreamlinerm" />
+</div>
