@@ -19,4 +19,5 @@
 <div>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Dreamlinerm&show_icons=true&bg_color=00000000" alt="Dreamlinerm" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dreamlinerm&include_all_commits=true&layout=compact&bg_color=00000000" alt="Dreamlinerm" />
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamlinerm&hide_border=false&theme=transparent" alt="Dreamlinerm" />
 </div>
