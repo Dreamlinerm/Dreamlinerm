@@ -1,6 +1,6 @@
 ### Hi, I'm Marvin a Master Computer Science Student
-- 🔭 I’m currently working on Netflix/Prime Auto-skip Browser Addon
-- 🌱 I’m currently studying for my Masters at the RWTH Aachen
+- 🔭 I’m currently working on Streaming Enhanced Browser Addon
+- 🌱 I’m currently studying Msc. Computer Science at RWTH Aachen
 - 📫 How to reach me: marvinkrebber@yahoo.de
 
 <h3 align="left">Languages:</h3>
