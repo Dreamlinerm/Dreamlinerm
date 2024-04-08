@@ -7,6 +7,12 @@
 <a href="mailto:marvinkrebber@yahoo.de" target="_blank" rel="noreferrer">Email</a>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/marvinkrebber)
 
+## 🤝 Support Me
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Dreamlinerm?style=for-the-badge&logo=githubsponsors&logoColor=%23EA4AAA)](https://github.com/sponsors/Dreamlinerm)
+<a href="https://paypal.me/MarvinKrebber">
+<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal">
+</a>
+
 ## 👨🏽‍💻 Programmed Languages
 
 <p align="left">
