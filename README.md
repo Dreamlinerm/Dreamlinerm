@@ -8,10 +8,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/marvinkrebber)
 
 ## 🤝 Support Me
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Dreamlinerm?style=for-the-badge&logo=githubsponsors&logoColor=%23EA4AAA)](https://github.com/sponsors/Dreamlinerm)
-<a href="https://paypal.me/MarvinKrebber">
-<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal">
-</a>
+<p>Recurring:
+        <a href="https://github.com/sponsors/Dreamlinerm" target="_blank">GitHub (lowest fees)</a>,
+        <a href="https://www.paypal.com/donate/?hosted_button_id=N7CEVV9CCJWM6" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal"></a>
+    </p>
+    <p>One-time donation: <a href="https://github.com/sponsors/Dreamlinerm" target="_blank">GitHub (lowest fees)</a>, <a
+            href="https://www.paypal.com/paypalme/MarvinKrebber" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal"></a>
+    </p>
 
 ## 👨🏽‍💻 Programmed Languages
 
