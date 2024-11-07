@@ -1,0 +1,145 @@
+<svg fill="none" viewBox="0 0 500 200" width="500" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes gradientBackground {
+                    0% {
+                        background-position: 0% 50%;
+                    }
+
+                    50% {
+                        background-position: 100% 50%;
+                    }
+
+                    100% {
+                        background-position: 0% 50%;
+                    }
+                }
+
+                .container {
+                    font-family:
+                        system-ui,
+                        -apple-system,
+                        'Segoe UI',
+                        Roboto,
+                        Helvetica,
+                        Arial,
+                        sans-serif,
+                        'Apple Color Emoji',
+                        'Segoe UI Emoji';
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                    justify-content: center;
+                    margin: 0;
+                    width: 100%;
+                    height: 100%;
+                    background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+                    background-size: 600% 400%;
+                    animation: gradientBackground 10s ease infinite;
+                    border-radius: 10px;
+                    color: white;
+                    text-align: center;
+                }
+
+                h1 {
+                    font-size: 32px;
+                    margin: 10px;
+                    line-height: 1.3;
+                    letter-spacing: 5px;
+                    text-transform: uppercase;
+                    /* text-shadow:
+                    0 1px 0 #efefef,
+                    0 2px 0 #efefef,
+                    0 3px 0 #efefef,
+                    0 4px 0 #efefef,
+                    0 12px 5px rgba(0, 0, 0, 0.1); */
+                }
+
+                .animation {
+                    height: 41.6px;
+                    margin: 0;
+                    padding: 0;
+                    overflow: hidden;
+                }
+
+                .animation>div>h1 {
+                    /* height: 32px; */
+                    margin: 0;
+                }
+
+                .animation div:first-child {
+                    animation: text-animation 8s infinite;
+                }
+
+                /* .first h1 {
+                    background-color: #20a7d8;
+                }
+        
+                .second h1 {
+                    background-color: #CD921E;
+                }
+        
+                .third h1 {
+                    background-color: #c10528;
+                } */
+
+                @keyframes text-animation {
+                    0% {
+                        margin-top: 0;
+                    }
+
+                    10% {
+                        margin-top: 0;
+                    }
+
+                    20% {
+                        margin-top: -41.6px;
+                    }
+
+                    30% {
+                        margin-top: -41.6px;
+                    }
+
+                    40% {
+                        margin-top: -83.2px;
+                    }
+
+                    60% {
+                        margin-top: -83.2px;
+                    }
+
+                    70% {
+                        margin-top: -41.6px;
+                    }
+
+                    80% {
+                        margin-top: -41.6px;
+                    }
+
+                    90% {
+                        margin-top: 0;
+                    }
+
+                    100% {
+                        margin-top: 0;
+                    }
+                }
+            </style>
+            <div class="container">
+                <h1>Hello, I am&nbsp;</h1>
+
+                <div class="animation">
+                    <div class="first">
+                        <h1>Marvin 👋</h1>
+                    </div>
+                    <div class="second">
+                        <h1>Developer</h1>
+                    </div>
+                    <div class="third">
+                        <h1>Student</h1>
+                    </div>
+                </div>
+            </div>
+    </foreignObject>
+</svg>
