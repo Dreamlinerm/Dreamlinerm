@@ -127,8 +127,7 @@
                 }
             </style>
             <div class="container">
-                <h1>Hello, I am&nbsp;</h1>
-
+                <h1>Hello, I am</h1>
                 <div class="animation">
                     <div class="first">
                         <h1>Marvin 👋</h1>
@@ -141,5 +140,6 @@
                     </div>
                 </div>
             </div>
+        </div>
     </foreignObject>
 </svg>
