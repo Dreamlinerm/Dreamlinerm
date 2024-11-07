@@ -1,3 +1,5 @@
+<img src="Title.svg" alt="Click to see the source">
+
 ## Hi, I'm Marvin a Master Computer Science Student
 - 👨🏽‍💻 I’m currently working on Streaming Enhanced Browser Addon
 - 🌱 I’m currently studying Msc. Computer Science at RWTH Aachen
