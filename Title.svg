@@ -117,14 +117,6 @@
                         margin-top: -124.8px;
                     }
 
-                    80% {
-                        margin-top: -83.2px;
-                    }
-
-                    90% {
-                        margin-top: -41.6px;
-                    }
-
                     100% {
                         margin-top: 0;
                     }
@@ -135,16 +127,16 @@
                 <h1>Hello, I am</h1>
                 <div class="animation">
                     <div>
-                        <h1>Marvin</h1>
+                        <h1>Marvin 👋</h1>
                     </div>
                     <div>
                         <h1>Dreamlinerm</h1>
                     </div>
                     <div>
-                        <h1>Developer</h1>
+                        <h1>Developer 👨🏼‍💻</h1>
                     </div>
                     <div>
-                        <h1>Student</h1>
+                        <h1>MSC. Student</h1>
                     </div>
                 </div>
             </div>
