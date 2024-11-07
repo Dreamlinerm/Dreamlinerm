@@ -1,7 +1,7 @@
 <img src="Title.svg" alt="Click to see the source" width="500px">
 
 - 👨🏻‍💻 I’m currently working on Streaming Enhanced Browser Addon
-- 👨🏼‍🎓 I’m currently studying Msc. Computer Science at RWTH Aachen
+- 👨🏼‍🎓 I’m currently studying M.Sc. Computer Science at RWTH Aachen
 
 ## 📝 Contact Me
 
