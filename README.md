@@ -1,6 +1,6 @@
 <img src="Title.svg" alt="Click to see the source" width="500px">
 
-- 👨🏼‍💻 I’m currently working on Streaming Enhanced Browser Addon
+- 👨🏻‍💻 I’m currently working on Streaming Enhanced Browser Addon
 - 👨🏼‍🎓 I’m currently studying Msc. Computer Science at RWTH Aachen
 
 ## 📝 Contact Me
@@ -9,7 +9,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/marvinkrebber)
 
 ## 🤝 Buy me a [coffee!](https://github.com/sponsors/Dreamlinerm)
-## 👨🏼‍💻 Programmed Languages
+## 👨🏻‍💻 Programmed Languages
 
 <p align="left">
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
