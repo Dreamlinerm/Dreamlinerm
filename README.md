@@ -7,7 +7,8 @@
 
 <a href="mailto:marvinkrebber@yahoo.de" target="_blank" rel="noreferrer">Email</a>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/marvinkrebber)
-<a href="[https://angular.io/](https://www.linkedin.com/in/marvin-krebber-963b36356/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/marvin-krebber-963b36356/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://www.xing.com/profile/Marvin_Krebber" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" alt="xing" width="40" height="40"/> </a>
 
 
 ## 🤝 Buy me a [coffee!](https://github.com/sponsors/Dreamlinerm)
