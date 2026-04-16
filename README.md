@@ -5,11 +5,20 @@
 
 ## 📝 Contact Me
 
-<a href="mailto:marvinkrebber@yahoo.de" target="_blank" rel="noreferrer">Email</a>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/marvinkrebber)
-<a href="https://www.linkedin.com/in/marvin-krebber-963b36356/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
-<a href="https://www.xing.com/profile/Marvin_Krebber" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" alt="xing" width="40" height="40"/> </a>
-
+<p align="left">
+  <a href="mailto:marvinkrebber@yahoo.de" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/marvinkrebber" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/marvin-krebber-963b36356/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://www.xing.com/profile/Marvin_Krebber" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" alt="Xing" width="40" height="40" />
+  </a>
+</p>
 
 ## 🤝 Buy me a [coffee!](https://github.com/sponsors/Dreamlinerm)
 ## 👨🏻‍💻 Most used Languages
