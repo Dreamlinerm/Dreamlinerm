@@ -1,6 +1,6 @@
 <img src="Title.svg" alt="Click to see the source" width="500px">
 
-- 👨🏻‍💻 I’m currently working on Streaming Enhanced Browser Addon
+- 👨🏻‍💻 I’m currently working on Streaming Enhanced Browser Extension
 - 👨🏼‍🎓 I’m have a M.Sc. Computer Science at RWTH Aachen
 
 ## 📝 Contact Me
@@ -23,17 +23,17 @@
 ## 👨🏻‍💻 Most used Languages
 
 <p align="left">
+
+<a href="https://react.dev/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40"/></a>
 <a href="https://angular.io/"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" height="40"/></a>
 <a href="https://vuejs.org/"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" height="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/></a> 
-<a href="https://www.typescriptlang.org/"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" height="40"/></a> 
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </a>
-<a href="https://www.java.com/en/"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/> </a>
-<a href="https://www.w3schools.com/c/c_intro.php"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/index.php"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/> </a> 
-<a href="https://www.mongodb.com/"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="40"/> </a> 
-<a href="https://www.mysql.com/"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" height="40"/></a> 
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
+<a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="40"/></a> 
+<a href="https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/></a>
+<a href="https://www.w3schools.com/c/c_intro.php"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="40"/></a> 
+<a href="https://www.w3schools.com/cs/index.php"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/></a> 
+
 </p>
 
 ## Github Stats
